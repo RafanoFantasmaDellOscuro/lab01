@@ -19,4 +19,4 @@
 
 ### Шаг 1: Клонирование репозитория
 ```bash
-git clone https:
+git clone https://github.com/RafanoFantasmaDellOscuro/lab01.git
